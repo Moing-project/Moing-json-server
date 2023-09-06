@@ -1,0 +1,65 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "subject": "게임",
+      "title": "지상 최고 야무지고 즐거운 음악 게임 '비트잼'",
+      "bannerImg": "https://img.freepik.com/free-photo/futuristic-video-game-equipment-illuminated-in-nightclub-generative-ai_188544-32105.jpg?w=1060&t=st=1693998320~exp=1693998920~hmac=38e5d963dbfcdd472dbebe262dc6e0b5f0fd1ee9fe7701b093518fb6b8619b02",
+      "thumnail": "https://i.postimg.cc/mDsxkcL0/image-47.jpg",
+      "totalMember": "10",
+      "stacks": ["PYTHON", "NODE_JS", "DJANGO", "EXPRESS", "MONGO_DB", "AWS"],
+      "allowType": "ALL_ALLOW",
+      "intro": "비트잼 - 음악으로 펼쳐지는 모험과 리듬의 세계\n비트잼은 음악과 게임이 만나 환상적인 모험을 선사하는 혁신적인 음악게임 프로젝트입니다. 플레이어들은 즐거운 음악을 배경으로 다양한 퍼즐과 도전을 경험하며, 독특한 시각적 효과와 몰입감 있는 게임플레이로 새로운 세계를 탐험할 수 있습니다",
+      "introduce": "# 비트잼 - 음악으로 펼쳐지는 모험과 리듬의 세계\n![](https://velog.velcdn.com/images/gardenii/post/abd15cf8-910a-4ead-8e13-9a1042254afe/image.png)\n\n비트잼은 음악과 게임이 만나 환상적인 모험을 선사하는 혁신적인 음악게임 프로젝트입니다. 플레이어들은 즐거운 음악을 배경으로 다양한 퍼즐과 도전을 경험하며, 독특한 시각적 효과와 몰입감 있는 게임플레이로 새로운 세계를 탐험할 수 있습니다.\n\n더 자세한 게임 사항 알고싶다면 [링크 접속](https://jwc406.tistory.com/)해서 보시면 됩니다.\n\n\n ### 백엔드 아키텍처\n- 1.서버 인프라 구성: 클라우드 기반의 서버 인프라를 구성하여 안정적인 서비스 제공을 위한 환경을 마련합니다. Amazon Web Services(AWS) 또는 Microsoft Azure와 같은 클라우드 플랫폼을 활용하여 서버 배포 및 관리를 수행합니다.\n\n- 2.데이터베이스 설계: 게임 내 플레이어, 음악 트랙, 게임 진행 상태 등의 데이터를 관리하기 위한 데이터베이스를 설계합니다. NoSQL 데이터베이스 (예: MongoDB)를 활용하여 유연한 데이터 구조를 구현하고, 데이터의 일관성과 성능을 보장합니다.\n\n- 3.사용자 관리 및 인증: 사용자 등록, 로그인, 인증, 비밀번호 관리 등을 처리하는 모듈을 구현합니다. OAuth 또는 JWT(JSON Web Token)을 활용하여 안전한 사용자 인증 및 권한 관리를 구현합니다.\n### 기술 스택\n- -프로그래밍 언어: Python, Node.js\n\n- -웹 프레임워크: Django, Express\n- -데이터베이스: MongoDB\n- -서버 환경: AWS \n\n위의 백엔드 계획을 기반으로, 리듬 레벨즈 프로젝트는 안정적이고 확장 가능한 게임 서비스를 제공할 것입니다.\n\n같이 멋진 프로젝트 만들어가요~",
+      "endTime": null,
+      "leader": "나는야 코딩대왕",
+      "members": [
+        {
+          "profileImage": "https://i.postimg.cc/YCFLBVhb/team1-1.jpg"
+        },
+        {
+          "profileImage": "https://i.postimg.cc/CKHZzqC8/team1-2.jpg"
+        },
+        {
+          "profileImage": "https://i.postimg.cc/C1hRDxJQ/team1-3.jpg"
+        }
+      ],
+      "contribution": [
+        {
+          "userId": 0,
+          "profileImage": "string",
+          "nickname": "string"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "subject": "웹",
+      "title": "여행 계획을 작성하고 공유하는 'TravelPlanShare'",
+      "bannerImg": "https://img.freepik.com/free-photo/futuristic-video-game-equipment-illuminated-in-nightclub-generative-ai_188544-32105.jpg?w=1060&t=st=1693998320~exp=1693998920~hmac=38e5d963dbfcdd472dbebe262dc6e0b5f0fd1ee9fe7701b093518fb6b8619b02",
+      "thumnail": "https://img.freepik.com/free-photo/female-tourists-on-hand-have-a-happy-travel-map_1150-7411.jpg?w=996&t=st=1693999482~exp=1694000082~hmac=88846b4c2665a41ce83942c8ff45c22a5f123e8525c63e0ad0ec7a4ff6a0365c",
+      "totalMember": "4",
+      "stacks": ["REACT", "SPRING", "MONGO_DB", "AWS"],
+      "allowType": "REQUIRED_ALLOW",
+      "intro": "여행을 더 쉽게 계획하고 다른 여행객들과 경험을 공유하세요. TravelPlanShare는 여행 계획을 작성하고, 지역 정보를 공유하며, 실시간으로 여행 상황을 업데이트할 수 있는 플랫폼입니다. 당신의 여행을 더욱 특별하게 만들어보세요!",
+      "introduce": "# 프로젝트 목표\n사용자들이 여행 계획을 작성하고 공유할 수 있는 웹 애플리케이션을 개발하는 것\n\n# 기본 스택\n- -Frontend: React.js\n\n- -Backend: Node.js (Express.js)\n\n- -데이터베이스: MongoDB\n\n- -사용자 인증: Passport.js 또는 Firebase Authentication\n\n- -웹 호스팅: Heroku 또는 Netlify\n# 기능 제안\n- -계획 작성 및 관리: 사용자는 여행 계획을 작성하고 편집할 수 있고, 날짜, 장소, 활동 등의 정보를 추가하고 수정할 수 있습니다.\n\n- -계획 공유: 사용자는 작성한 여행 계획을 다른 사용자와 공유할 수 있습니다.\n\n- -댓글 및 피드백:사용자는 여행 계획에 댓글을 달거나 피드백을 남길 수 있습니다. 다른 사용자의 계획에 대한 의견을 공유하고 토론할 수 있습니다.\n\n- -사진 및 동영상 업로드: 사용자는 여행 계획에 사진 및 동영상을 업로드하여 여행 경험을 시각적으로 공유할 수 있습니다.\n\n이러한 스택과 기능을 기반으로 웹 애플리케이션을 개발하면 사용자들이 여행 계획을 작성하고 공유하는 플랫폼을 구축할 수 있을 것입니다. 이것은 시작점일 뿐이며, 프로젝트의 복잡성과 기능을 추가하거나 수정할 수 있습니다.\n많은 관심 부탁드려요😊",
+      "endTime": "2023-09-15T09:39:00.095Z",
+      "leader": "트래블러",
+      "members": [
+        {
+          "profileImage": "https://img.freepik.com/free-photo/young-asian-girl-portrait-isolated_53876-70968.jpg?size=626&ext=jpg&ga=GA1.2.565736253.1693998310&semt=sph"
+        },
+        {
+          "profileImage": "https://img.freepik.com/free-photo/cheerful-beautiful-young-asian-woman-feeling-happy-smiling-to-camera-while-traveling-at-chinatown-in-beijing-china_7861-1345.jpg?size=626&ext=jpg&ga=GA1.2.565736253.1693998310&semt=sph"
+        }
+      ],
+      "contribution": [
+        {
+          "userId": 0,
+          "profileImage": "string",
+          "nickname": "string"
+        }
+      ]
+    }
+  ]
+}
